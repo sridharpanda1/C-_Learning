@@ -1,11 +1,11 @@
-What is C# .NET?
+Q. What is C# .NET?
 Ans: 
 	• C# is a programming language and .NET is a framework tool which is collection of class libraries.
 	• It is case sensitive
 	• It supports object oriented programming
 	• Combination of C++ and Java with additional features
 
-Different Flavors of .NET?
+Q. Different Flavors of .NET?
 Ans: 
 	1. C#.NET
 	2. VB.NET
@@ -17,7 +17,7 @@ Ans:
 	8. Iron Ruby (C#+Ruby)
 	9. Iron Python (C#+Python)
 
-Console Application:
+Q. Console Application:
 Ans:
 	1. It is a standalone application or desktop application
 	2. CUI - Console User Interface / Command User Interface
@@ -25,14 +25,14 @@ Ans:
 	4. Console class is present in system Namespace
 	5. Console class is consists of methods. Such as: Write(), WriteLine(), Read(), ReadLine() etc.
 
-What is the main difference between Write() and WriteLine()?
+Q. What is the main difference between Write() and WriteLine()?
 Ans:
 	1. Write() 
 		a. Write() is used to print data without adding new line
 	2. WriteLine()
 		a. WriteLine() is used to print data with adding new line
 
-What is the main difference between  Read() and ReadLine()?
+Q. What is the main difference between  Read() and ReadLine()?
 Ans:
 	1. Read()
 		a. it is used for read only single characters or next characters 
@@ -43,7 +43,7 @@ Ans:
 		b. it will return only string value only
 		c. ReadLine() only read the group of characters.
 
-How to accept values at runtime?
+Q. How to accept values at runtime?
 Ans:
 	• To accept the values during runtime that we can use the ReadLine()
 
